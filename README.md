@@ -32,7 +32,4 @@
 <div align="left" style="padding-left: 20px;">
   <a href="https://www.python.org/" target="_blank">
     <img src="icon/python.png" alt="Python" width="36" height="36" style="margin-right: 10px;">
-  </a>
-  <a href="https://www.xq.com.tw/" target="_blank">
-    <img src="icon/xq.ico" alt="XQ" width="36" height="36" style="margin-right: 10px;">
-  </a>
+</div>****
