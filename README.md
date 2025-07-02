@@ -12,7 +12,8 @@
 
 Connect with me :
 
-![Instagram](/ABOUT%20ME/icon/instagram.png " ")![Facebook](/ABOUT%20ME/icon/facebook.png " ")![Discord](/ABOUT%20ME/icon/discord.png " ")
+[![FB](icon/facebook.png)](https://www.facebook.com/zhen.lin.979477)
+
 
 Languages and Tools :
-![Python](/ABOUT%20ME/icon/python.png " ")![XQ](/ABOUT%20ME/icon/xq.png " ")
+
