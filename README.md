@@ -31,3 +31,16 @@ Languages and Tools :
   <img src="icon/discord.png" alt="Discord" width="32" height="32">
   <code>zhennnnn20</code>
 </p>
+
+<h3>📬 Connect with me</h3>
+
+<div align="left" style="padding-left: 20px;">
+  <a href="https://www.facebook.com/zhen.lin.979477" target="_blank">
+    <img src="icon/facebook.png" alt="Facebook" width="36" height="36" style="margin-right: 10px;">
+  </a>
+  <a href="https://www.instagram.com/zhennnnn20/" target="_blank">
+    <img src="icon/instagram.png" alt="Instagram" width="36" height="36" style="margin-right: 10px;">
+  </a>
+  <img src="icon/discord.png" alt="Discord" width="36" height="36" style="margin-right: 6px;">
+  <code style="font-size: 18px;">zhennnnn20</code>
+</div>
