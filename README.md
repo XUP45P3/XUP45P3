@@ -27,9 +27,11 @@
   <code style="font-size: 18px;">zhennnnn20</code>
 </div>
 
+<br> <!-- 加這一行，讓下方區塊空一點 -->
+
 **Languages and Tools :**
 
 <div align="left" style="padding-left: 20px;">
   <a href="https://www.python.org/" target="_blank">
     <img src="icon/python.png" alt="Python" width="36" height="36" style="margin-right: 10px;">
-</div>****
+</div>
