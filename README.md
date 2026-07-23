@@ -1,5 +1,3 @@
-### Sample Banner
-
 <img src="ProfileBanner.svg" width=100%>
 
 <br>
