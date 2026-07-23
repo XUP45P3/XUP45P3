@@ -18,7 +18,7 @@
 
 #### 🐋 部署與版本控制
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 #### 👥 專案管理
