@@ -1,23 +1,5 @@
 <img src="ProfileBanner.svg" width=100%>
 
-<br>
-<br>
-<details>
-    <summary>SVG Format</summary>
-    <img src="profileBanner.svg" width=60%>
-    <hr>
-    <br>
-    <p>Slide 1</p>
-    <img src="Assets/s1.png" width=40%>
-    <p>Slide 2</p>
-    <img src="Assets/s2.png" width=40%>
-    <p>Slide 3</p>
-    <img src="Assets/s3.png" width=40%>
-</details>
-<br>
-
-
-
 <div align="center">
 
 <h1>Hi 👋, I'm 藺稹</h1>
