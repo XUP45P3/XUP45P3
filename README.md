@@ -6,7 +6,10 @@
 
 ─────────────────────────
 
-**Connect with me :**
+**How to reach me :**
+
+<a href="https://www.instagram.com/jen.041220?igsh=M3B0c2xubWgydmd4&utm_source=qr"><img alt="Instagram" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:t112ab0018@ntut.org.tw"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 <div align="left" style="padding-left: 20px;">
   <a href="https://www.facebook.com/zhen.lin.979477" target="_blank">
