@@ -1,13 +1,5 @@
 <img src="ProfileBanner.svg" width=100%>
 
-<div align="center">
-
-<h1>Hi 👋, I'm 藺稹</h1>
-
-<h4>A student whose goal is to become top Quantitative Trader.</h4>
-
-</div>
-
 ---
 
 - 🎓 National Taipei University of Technology (NTUT)
