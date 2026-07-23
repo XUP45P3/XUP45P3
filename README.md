@@ -8,21 +8,20 @@
 ─────────────────────────
 
 #### 💻 開發語言
-
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/XQ_Script-003B73?style=flat-square)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp;
+![](https://img.shields.io/badge/XQ_Script-003B73?style=flat-square) &nbsp;
 
 #### 🌐 網頁技術
-![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) &nbsp;
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) &nbsp;
 
 #### 🐋 部署與版本控制
-![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) &nbsp;
+![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) &nbsp;
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) &nbsp;
 
 #### 👥 專案管理
-![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) &nbsp;
 
 ─────────────────────────
 
