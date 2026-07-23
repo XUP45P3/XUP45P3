@@ -1,7 +1,5 @@
 <img src="ProfileBanner.svg" width=100%>
 
----
-
 - 🎓 National Taipei University of Technology (NTUT)
 - 🔍 Discuess me about **Trade, Strategies, Python, XQ**
 - 📫 How to reach me <michael1220zhen@gmail.com>
