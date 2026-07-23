@@ -16,8 +16,8 @@
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) &nbsp;
 
 #### 🐋 部署與版本控制
-![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) &nbsp;
 ![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) &nbsp;
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) &nbsp;
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) &nbsp;
 
 #### 👥 專案管理
