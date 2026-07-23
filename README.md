@@ -1,5 +1,10 @@
 <img src="ProfileBanner.svg" width=100%>
 
+![version :07.23.2026](https://img.shields.io/badge/version-07.23.2026-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=XUP45P3&color=red)&nbsp;
+[![GitHub XUP45P3](https://img.shields.io/github/followers/XUP45P3?label=follow&style=social)](https://github.com/XUP45P3)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
+
 ─────────────────────────
 
 #### 💻 開發語言
